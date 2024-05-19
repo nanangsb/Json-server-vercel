@@ -1,4 +1,4 @@
-[
+
   {
   "posts": [
     { "id": 1, "title": "json-server", "author": "typicode" }
@@ -7,8 +7,6 @@
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "profile": { "name": "typicode" }
-},
-{
   "posts": [
     { "id": 2, "title": "json-s2erver", "author": "typic2ode" }
   ],
@@ -17,4 +15,3 @@
   ],
   "profile": { "name": "typico2de" }
 }
-]
