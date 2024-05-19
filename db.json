@@ -6,4 +6,13 @@
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "profile": { "name": "typicode" }
+},
+{
+  "posts": [
+    { "id": 2, "title": "json-s2erver", "author": "typic2ode" }
+  ],
+  "comments": [
+    { "id": 2, "body": "some comm2ent", "postId": 2 }
+  ],
+  "profile": { "name": "typico2de" }
 }
